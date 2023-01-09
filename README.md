@@ -1,9 +1,9 @@
 # Enigma's_Sins
 To document her sins.
 
-## Start From 2023.
+### Start From 2023.
 
-# Total ： 2
+## Total ： 2
 
 
 
