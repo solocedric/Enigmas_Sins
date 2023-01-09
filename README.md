@@ -1,2 +1,2 @@
-# Enigma-s_Sins
+# Enigma's_Sins
 To document her sins.
